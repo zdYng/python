@@ -1,0 +1,51 @@
+1506323677076	geckodriver	INFO	geckodriver 0.18.0
+1506323677129	geckodriver	INFO	Listening on 127.0.0.1:1288
+1506323677881	geckodriver::marionette	INFO	Starting browser D:\Program Files\mozilla firefox\firefox.exe with args ["-marionette"]
+1506323678716	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/mozilla%20firefox/omni.ja!/components/addonManager.js:65
+1506323679605	Marionette	INFO	Enabled via --marionette
+JavaScript warning: resource://addoninstaller/log4moz.js, line 489: Date.prototype.toLocaleFormat is deprecated; consider using Intl.DateTimeFormat instead
+[GPU 5980] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506323684451	Marionette	INFO	Listening on port 1292
+1506323684517	Marionette	INFO	Listening on port 1292
+1506323684995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506323685119	Marionette	DEBUG	loaded listener.js
+1506323685218	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506323685442	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506323685443	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506323686088	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506323686345	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%BD%91&json=1&p=3&sid=1469_21111_20930&req=2&csor=1&cb=jQuery1102009011968161564665_1506323685850&_=1506323685852, line 1: TypeError: jQuery1102009011968161564665_1506323685850 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%BD%91%E7%BB%9C&json=1&p=3&sid=1469_21111_20930&req=2&csor=2&pwd=%E7%BD%91&cb=jQuery1102009011968161564665_1506323685850&_=1506323685853, line 1: TypeError: jQuery1102009011968161564665_1506323685850 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%BD%91%E7%BB%9C%E7%88%AC&json=1&p=3&sid=1469_21111_20930&req=2&csor=3&pwd=%E7%BD%91%E7%BB%9C&cb=jQuery1102009011968161564665_1506323685850&_=1506323685854, line 1: TypeError: jQuery1102009011968161564665_1506323685850 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB&json=1&p=3&sid=1469_21111_20930&req=2&csor=4&pwd=%E7%BD%91%E7%BB%9C%E7%88%AC&cb=jQuery1102009011968161564665_1506323685850&_=1506323685855, line 1: TypeError: jQuery1102009011968161564665_1506323685850 is not a function
+1506323699697	geckodriver	INFO	geckodriver 0.18.0
+1506323699717	geckodriver	INFO	Listening on 127.0.0.1:1367
+1506323700311	geckodriver::marionette	INFO	Starting browser D:\Program Files\mozilla firefox\firefox.exe with args ["-marionette"]
+1506323700768	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/Program%20Files/mozilla%20firefox/omni.ja!/components/addonManager.js:65
+1506323701511	Marionette	INFO	Enabled via --marionette
+JavaScript warning: resource://addoninstaller/log4moz.js, line 489: Date.prototype.toLocaleFormat is deprecated; consider using Intl.DateTimeFormat instead
+[GPU 7060] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506323705241	Marionette	INFO	Listening on port 1371
+[Child 6252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506323705272	Marionette	INFO	Listening on port 1371
+1506323705751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506323705832	Marionette	DEBUG	loaded listener.js
+1506323705889	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506323706107	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506323706108	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506323706707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506323707008	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%BD%91&json=1&p=3&sid=1448_21094_17001_22158&req=2&sugId=c892f1840000d50a1&cb=jQuery110208071188963527255_1506323706485&_=1506323706487, line 1: TypeError: jQuery110208071188963527255_1506323706485 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%BD%91%E7%BB%9C&json=1&p=3&sid=1448_21094_17001_22158&req=2&sugId=c892f1840000d50a2&cb=jQuery110208071188963527255_1506323706485&_=1506323706488, line 1: TypeError: jQuery110208071188963527255_1506323706485 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%BD%91%E7%BB%9C%E7%88%AC&json=1&p=3&sid=1448_21094_17001_22158&req=2&sugId=c892f1840000d50a3&cb=jQuery110208071188963527255_1506323706485&_=1506323706489, line 1: TypeError: jQuery110208071188963527255_1506323706485 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB&json=1&p=3&sid=1448_21094_17001_22158&req=2&sugId=c892f1840000d50a4&cb=jQuery110208071188963527255_1506323706485&_=1506323706490, line 1: TypeError: jQuery110208071188963527255_1506323706485 is not a function
+1506323718047	Marionette	DEBUG	loaded listener.js
+[GPU 7060] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7060] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

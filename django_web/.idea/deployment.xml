@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://grid@192.168.1.245:22/usr/local/anaconda3/bin/python3.6" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ssh://grid@192.168.1.245:22/usr/local/anaconda3/bin/python3.6">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/grid/sparktest/django_web" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

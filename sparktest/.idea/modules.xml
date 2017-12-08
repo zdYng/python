@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/spark/Git/gitLab/mysql_data/.idea/mysql_data.iml" filepath="F:/spark/Git/gitLab/mysql_data/.idea/mysql_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sparktest.iml" filepath="$PROJECT_DIR$/.idea/sparktest.iml" />
+    </modules>
+  </component>
+</project>

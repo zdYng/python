@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$PROJECT_DIR$">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+      <entry url="file://F:/spark/Spark/spark-2.2.0-bin-hadoop2.7/python/pyspark">
+        <entryData>
+          <resourceRoots>
+            <path value="file://F:/spark/Spark/spark-2.2.0-bin-hadoop2.7/python/pyspark" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+      <entry url="jar://F:/spark/Spark/spark-2.2.0-bin-hadoop2.7/python/lib/py4j-0.10.4-src.zip!/">
+        <entryData>
+          <resourceRoots>
+            <path value="jar://F:/spark/Spark/spark-2.2.0-bin-hadoop2.7/python/lib/py4j-0.10.4-src.zip!/" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+      <entry url="jar://F:/spark/Spark/spark-2.2.0-bin-hadoop2.7/python/lib/pyspark.zip!/">
+        <entryData>
+          <resourceRoots>
+            <path value="jar://F:/spark/Spark/spark-2.2.0-bin-hadoop2.7/python/lib/pyspark.zip!/" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>

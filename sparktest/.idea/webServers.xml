@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1698ed70-1cdc-4f8b-8790-0d65b7b025b7" name="sftp" url="http://192.168.1.245">
+        <fileTransfer host="192.168.1.245" port="22" rootFolder="/home/grid/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

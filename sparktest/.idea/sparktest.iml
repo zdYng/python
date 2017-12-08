@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://F:/spark/Spark/spark-2.2.0-bin-hadoop2.7/python/pyspark" />
+    <content url="jar://F:/spark/Spark/spark-2.2.0-bin-hadoop2.7/python/lib/py4j-0.10.4-src.zip!/" />
+    <content url="jar://F:/spark/Spark/spark-2.2.0-bin-hadoop2.7/python/lib/pyspark.zip!/" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.6.1 (ssh://grid@192.168.1.245:22/usr/local/anaconda3/bin/python3.6)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="mysql_data" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
